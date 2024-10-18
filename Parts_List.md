@@ -92,8 +92,6 @@ The Obis laser will need one [male SMB to male BNC cable](https://uk.rs-online.c
 Other (untested) options that are slightly different wavelength but much cheaper and in principle should work well include:
 * [Oxxius 450 nm 70 mW](https://www.oxxius.com/products/lbx-405-5/) at about 2800 GBP.
 * [Oxxius 488 nm](https://www.oxxius.com/products/lbx-488/) With the 40 mW at about 2800 GBP and the 100 mW at about 6400 GBP.
-* [MatchBox 450nm 60 mW](https://integratedoptics.com/cw-lasers/450-nm-lasers/450-nm-laser-diode;-free-space) at about 1600 GBP.
-* [MatchBox 488nm 40 mW](https://integratedoptics.com/cw-lasers/488-nm-lasers/488-nm-laser-diode;-free-space) at about 1600 GBP.
 
 All the laser really needs is the ability to control power with an analog input and a linear power/control input response. Bandwidth of about 200,000 kHz or above should be enough. 
 Other companies to consider include [Toptica](https://www.toptica.com/products/single-mode-diode-lasers) and [RPMC Lasers](https://www.rpmclasers.com/product/lbx-488-xxx-csb/). 

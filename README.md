@@ -11,5 +11,5 @@ We are keen to help others build the system, so if you feel you lack information
 
 Thorlabs-parts system             | Custom system
 :-------------------------:|:-------------------------:
-!<img src="https://github.com/Zapit-Optostim/thorlabs-version/blob/main/Screenshot%202026-01-12%20141439.png">  |  !<img src="https://github.com/Zapit-Optostim/thorlabs-version/blob/main/Screenshot%202026-01-12%20141456.png">
+<img src="https://github.com/Zapit-Optostim/thorlabs-version/blob/main/Screenshot%202026-01-12%20141439.png">  |  <img src="https://github.com/Zapit-Optostim/thorlabs-version/blob/main/Screenshot%202026-01-12%20141456.png">
 

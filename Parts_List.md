@@ -57,7 +57,7 @@ If you are building the Thorlabs-compatible version with no enclosure, you will 
 | --- | --- | --- |
 | 1x [CM1-DCH/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CM1-DCH/M) | Cage cube to hold dichroic filter| 14 GBP |
 | 8x [ER025](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER025) | 1/4" cage rods for connecting multiple parts, such as laser adapter to right angled mirror | 32 GBP |
-| 2x [PFR10-03-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01) | Ø1" Protected Silver Mirror | 75 GBP |
+| 1x [PFR10-03-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01) | Ø1" Protected Silver Mirror | 48 GBP |
 | 2x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 13 GBP |
 | 2x [SM05L03](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM05L03) | 0.3" SM05 lens tube to couple to adapter connecting cage cube and scanners | 12 GBP | 
 | [SM1CPL10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CPL10) | To couple the camera | 30 GBP |
@@ -66,7 +66,8 @@ If you are building the Thorlabs-compatible version with no enclosure, you will 
 | [SM2A6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2A6) | SM2A6 Threading ring to insert into scanners and to twist 1X SM1T2 into | 25 GBP |
 | [SM1EC2B](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1EC2B) | Snap on cap to block light exiting the cage cube | 10 GBP |
 | 2x [CP33T/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP33T/M) | SM1-Threaded Cage plates to house emission filter and connect galvos to a right-angled mirror mount | 45 GBP |
-| 2x [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=kcb1/M) | Right-angled mirror mounts to hold silver mirrors which direct light | 265 GBP |
+| 1x [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=kcb1/M) | Right-angled mirror mount to hold silver mirror which direct laser light | 132 GBP |
+| 1x [CCM1-P01/M](https://www.thorlabs.com/item/CCM1-P01_M) | Camera fold mirror with cage cube | 150 GBP |
 
 We also used a translation stage for focusing and mounting, which are coupled to our scanners, by using a custom designed, 3D-printed plate. This does not have to be CNC machined, but you may prefer to do so for your set-up. 
 

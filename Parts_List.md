@@ -2,6 +2,7 @@
 
 Prices are correct as of September 2025.
 Metric part numbers are listed but Imperial are also available (remove the `/M` from the ThorLabs product codes).
+Note, any part of the numbering in the letter A corresponds to the custom set-up, and any ending in B corresponds to the Thorlabs set up. Where there is no lettering, the equipment is common to both.
 
 ## 1. Common optomechanical parts
 Regardless of how you assemble the components, you will require the following.
@@ -55,7 +56,6 @@ If you are building the Thorlabs-compatible version with no enclosure, you will 
 | Item | Description | Approx Cost |
 | --- | --- | --- |
 | 1x [CM1-DCH/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CM1-DCH/M) | Cage cube to hold dichroic filter| 14 GBP |
-| 12x [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | 3x packs of 1/2" ER posts for coupling laser to enclosure | 32 GBP |
 | 8x [ER025](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER025) | 1/4" cage rods for connecting multiple parts, such as laser adapter to right angled mirror | 32 GBP |
 | 2x [PFR10-03-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01) | Ø1" Protected Silver Mirror | 75 GBP |
 | 2x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 13 GBP |

@@ -2,17 +2,16 @@
 
 Prices are correct as of September 2025.
 Metric part numbers are listed but Imperial are also available (remove the `/M` from the ThorLabs product codes).
-Note, any part of the numbering in the letter A corresponds to the custom set-up, and any ending in B corresponds to the Thorlabs set up. Where there is no lettering, the equipment is common to both.
+
 
 ## 1. Common optomechanical parts
 Regardless of how you assemble the components, you will require the following.
 | Item | Description | Approx Cost |
 | --- | --- | --- |
 | [MF252-39](https://www.thorlabs.com/thorproduct.cfm?partnumber=MF525-39) OR [Chroma AT495LP](https://www.chroma.com/products/parts/at495lp) | 25 mm emission filter | 200 GBP |
-| [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichoic  (see below)| 200 GBP |
+| [MD498](https://www.thorlabs.com/thorproduct.cfm?partnumber=MD498) | GFP dichroic  (see below)| 200 GBP |
 | 2x [AC254-200-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-200-A) | f=100 mm achromatic lens (objective) | 65 GBP |
 | 2x [AC254-100-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-100-A) OR 2x [AC254-150-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-150-A) | f=50/f=75 mm achromatic lens (tube lens) | 65 GBP |
-| 2x [SM1S2M](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1S2M) | 2 mm spacers for lenses | 7 GBP |
 | [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | C-Mount to SM1 adapter | 16 GBP |
 
 * You need an emission filter before the camera to block direct laser light.
@@ -29,28 +28,12 @@ This should yield about 7.8 microns/pixel.
 Switching to an f=50 mm tube lens gives about 22 mm by 14 mm. Should yield about 11.72 microns/pixel.
 The shorter tube lens is recommended to get the whole mouse skull into the FoV at once, but YMMV if you choose a different camera. 
 
-## 2A. Optomechanical parts specific to our machined enclosure
-If you are using our custom enclosure, you will need the following components.
-| Item | Description | Approx Cost |
-| --- | --- | --- |
-| 4x [ER025](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER025) | 1/4" cage rods for assembling the enclosure| 14 GBP |
-| 2x [ER05-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER05-P4) | 2x packs of 1/2" ER posts for coupling laser to enclosure | 32 GBP |
-| [PF10-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PFR10-P01) | 25 x 36 mm camera fold mirror | 75 GBP |
-| [SS6MS6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SS6MS6) | 6 mm M6 set screws* to plug adjustment holes | 5 GBP |
-| 3x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 12 GBP |
-| [SM1L03](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L05) | 0.3" SM1 lens tube to couple the camera | 11 GBP |
-| [SM1CPL10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CPL10) | To couple the camera | 30 GBP |
-| [WG11010-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=WG11010-A) | 1" BK7 window 1 mm thick |  75 GBP |
-
-*Only four set screws are needed and the pack has 25. So if you are building multiple systems, one pack is likely enough.
-
-
 **NOTE:** You will also need parts to mount the enclosure within your rig.
 These are not included above.
 If you need to add focusing ability you can buy ThorLabs [PT1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=PT1/M).
 Alternatively, you might focus by moving the sample up and down. 
 
-## 2B. Optomechanical parts for the general set-up
+## 2. Optomechanical parts for the main set-up
 If you are building the Thorlabs-compatible version with no enclosure, you will need the following parts:
 
 | Item | Description | Approx Cost |
@@ -58,12 +41,11 @@ If you are building the Thorlabs-compatible version with no enclosure, you will 
 | 1x [CM1-DCH/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CM1-DCH/M) | Cage cube to hold dichroic filter| 14 GBP |
 | 8x [ER025](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER025) | 1/4" cage rods for connecting multiple parts, such as laser adapter to right angled mirror | 32 GBP |
 | 1x [PFR10-03-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-P01) | Ø1" Protected Silver Mirror | 48 GBP |
-| 2x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens and tube lens | 13 GBP |
+| 1x [SM1L05](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L05) | 0.5" SM1 lens tubes to house tube lens | 12 GBP |
+| 1x [SM1L10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L10) | 1" SM1 lens tubes to house objective lens | 13 GBP |
 | 2x [SM05L03](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM05L03) | 0.3" SM05 lens tube to couple to adapter connecting cage cube and scanners | 12 GBP | 
-| [SM1CPL10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CPL10) | To couple the camera | 30 GBP |
-| [SM1A9](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A9) | SM1A9 Adapter with threads to couple right angled mirror with lens tube housing tube lens | 18 GBP |
-| 2x [SM1T2](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1T2) | SM1T2 Coupler to join cage cube and scanners, and lens tube with camera | 41 GBP |
-| [SM2A6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2A6) | SM2A6 Threading ring to insert into scanners and to twist 1X SM1T2 into | 25 GBP |
+|2x [SM1CPL10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CPL10) | To couple the camera to its lens tubes, and the scannerto its lens tubes | 70 GBP |
+| [SM2A6](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM2A6) | SM2A6 Threading ring to insert into scanners and to join with 1X SM1CPL10  | 25 GBP |
 | [SM1EC2B](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1EC2B) | Snap on cap to block light exiting the cage cube | 10 GBP |
 | 2x [CP33T/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP33T/M) | SM1-Threaded Cage plates to house emission filter and connect galvos to a right-angled mirror mount | 45 GBP |
 | 1x [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=kcb1/M) | Right-angled mirror mount to hold silver mirror which direct laser light | 132 GBP |
@@ -71,19 +53,10 @@ If you are building the Thorlabs-compatible version with no enclosure, you will 
 
 We also used a translation stage for focusing and mounting, which are coupled to our scanners, by using a custom designed, 3D-printed plate. This does not have to be CNC machined, but you may prefer to do so for your set-up. 
 
-## 3A. Mounting the laser in the custom enclosure
-You will need to buy and modify an EO heatsink to make it possible to mount a ThorLabs 30 mm cage system onto it. 
-The easiest way is to add 4x 4-40 threaded holes around the opening to attach rods and cages. We coupled the laser in via a single ThorLabs [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1/M#ad-image-0) mirror mount. 
-
-| Item | Description | Approx Cost |
-| --- | --- | --- |
-| [Heat sink and mount of laser](https://www.edmundoptics.co.uk/p/coherentreg-obistrade-heat-sink-34249/3636/) | This part will require modifications | 180 GBP |
-
-## 3B. Mounting the laser in the general set-up
+## 3. Mounting the laser in the general set-up
 For mounting the laser, we have chosen to go without the heatsinks but have designed custom adapters to join onto our Thorlabs set-ups. For the Obis laser, we have implemented a heat-sink like design as it is possible for it to shut off if it reaches temperatures above 40 degrees Celsius. All custom adapters are available in our CAD models of our set-ups, as well as individual files. We recommend getting these created by a CNC machining service, we used [HLH](https://www.hlhprototypes.com/cnc-machining/) as they are budget-friendly. For example, our Oxxius adapter was about 60 GBP and Obis adapter plate was about 120 GBP (both excluding shipping). 
 
 These adapter plates were designed with Thorlabs parts in mind, so you should be able to use 1/2" ER posts (included above), M4 locking set screws for the Oxxius plate, and assorted screws that come with the Obis laser for the Obis plate. 
-
 
 ## 4. The expensive parts
 All systems will require the following.
@@ -131,11 +104,12 @@ Other (untested) options that are slightly different wavelength but much cheaper
 
 All the laser really needs is the ability to control power with an analog input and a linear power/control input response. Bandwidth of about 200,000 kHz or above should be enough. 
 Other companies to consider include [Toptica](https://www.toptica.com/products/single-mode-diode-lasers) and [RPMC Lasers](https://www.rpmclasers.com/product/lbx-488-xxx-csb/). 
-You can also look into [Changchun Optoelectronics](www.cnilaser.com/blue_laser473.htm) but be cautious as we have tried some of their cheaper lasers in the past and found them to be unstable. 
 YMMV, though, and they are reasonably priced so might be worth a look.
 
 ### Scanners
-The [5 mm Saturn Scanners](https://www.edmundoptics.co.uk/p/5mm-aperture-protected-silver-saturn-5b-dual-axis-galvanometer-scanner/44527/) are generally kept in stock by Edmund and retail for 2900 GBP.
+We use [ThorLabs GVS002](https://www.thorlabs.com/thorproduct.cfm?partnumber=GVSK2-EC), which are cheap and easy to mount. These scanners have a lower bandwidth than the Saturn scanners and can cope with up to 5 points in a trial, depending on their spacing. These scanners have been tested with all lasers in the manuscript but have not been used experimentally so far. 
+
+The scanners used in the custom enclosure and in the experiments in the paper are the [5 mm Saturn Scanners](https://www.edmundoptics.co.uk/p/5mm-aperture-protected-silver-saturn-5b-dual-axis-galvanometer-scanner/44527/), which are generally kept in stock by Edmund and retail for 2900 GBP.
 They perform very well are near silent under the conditions that we run them.
 Avoid Cambridge Technologies: their lead times are around 1 year and you will need to buy a spare set to insure yourself against potential down time should the scanners fail.
 Failures happen and even repairs under warranty can take many months from this vendor.
@@ -145,9 +119,6 @@ We are using [Mean Well Switching Power Supply, 24V dc, 4.2A](https://uk.rs-onli
 
 Please note these power supplies have exposed screw terminals carrying mains voltage.
 Talk to an experienced engineer if you are unsure about wiring and housing them safely.
-
-Other plausible scanner options include [ThorLabs GVS002](https://www.thorlabs.com/thorproduct.cfm?partnumber=GVSK2-EC), which are cheap and easy to mount. 
-These scanners have a lower bandwidth than the Saturn scanners and can cope with up to 5 points in a trial, depending on their spacing. These scanners have been tested with all lasers in the manuscript but have not been used experimentally so far. 
 
 ## 5. Tools and small parts
 The following is a list of small parts and tools needed to build the system.

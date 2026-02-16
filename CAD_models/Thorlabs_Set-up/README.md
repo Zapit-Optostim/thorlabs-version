@@ -5,7 +5,7 @@ You can also change the length of the rods for your needs, and how close you wan
 
 | Step | Instruction | Visual Aid |
 | ---- | ----------- | ---------- |
-|   1  | Attach the laser to the adaptor plate with screws (check the hole size in CAD).| ![Step 1](Instruction_Media/step_1.png)|
+|   1  | Attach the laser to the adaptor plate with screws (check the hole size in CAD).| ![Step 1](Instruction_Media/step_1.jpg)|
 |  2   | Carefully place a silver mirror (PFR10-03-P01) in a right angled mirror holder (KC1B/M) by loosening the black side screw to make room for the silver mirror insertion (reflective side facing inwards), and then tighten to lock it into place.| ![Step 2](Instruction_Media/step_2.gif)|
 |  3   | Screw in cage rods (ER05) into the same KC1B/M part above in order to connect the laser adapter plate to the right angled mirror holder. Check the side holes in the CAD model to see which size screws you need for securing the ER rods into the custom adaptor plate.| ![Step 3](Instruction_Media/step_3.jpg)[Step 3 Continued](Instruction_Media/step_3_pt2.jpg)|
 |  4   | Screw in ER05 rods into the other side of the KC1B/M part.| ![Step 4](Instruction_Media/step_4.jpg)|
@@ -25,7 +25,7 @@ You can also change the length of the rods for your needs, and how close you wan
 |  18  | Screw in a lens tube (SM1L05) to the coupler. | ![Step 18](Instruction_Media/step_18.jpg)|
 |  19  | Screw in a coupler (SM1CPL10) to the lens tube. | ![Step 19](Instruction_Media/step_19.jpg)|
 |  20  | Connect the CCM1-P01/M with the tube lens to the other side of the coupler, and then connect ER025 rods to the other side of the CCM1-P01/M to secure the rest in place by the cage plate holding the emission filter. | ![Step 20](Instruction_Media/step_20.jpg)|
-|  21  | Connect the exposed end of the cage cube holding the dichroic to the galvos via another SM1T10 coupler. ![Step 21](Instruction_Media/step_21.jpg)|
+|  21  | Connect the exposed end of the cage cube holding the dichroic to the galvos via another SM1T10 coupler. | ![Step 21](Instruction_Media/step_21.jpg)|
 |  22  | Mount to your set-up as desired.| ![Step 22](Instruction_Media/step_22.jpg)|
 
 

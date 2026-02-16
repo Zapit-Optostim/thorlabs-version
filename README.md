@@ -4,8 +4,8 @@ Zapit is a random-access spatio-temporally precise scanning system for optogenet
 
 There are two construction routes.
 One is to make everything out of ThorLabs parts.
-The second is to use our CAD model to machine a compact custom enclosure.
-See the [Parts List](Parts_List.md) for a list of parts required. 
+The second is to use our [CAD model](https://github.com/Zapit-Optostim/zapit_CAD) to machine a compact custom enclosure.
+See the [Parts List](Parts_List.md) for a list of parts required for the first construction route. 
 We are keen to help others build the system, so if you feel you lack information please make contact via GitHub and we will get you up and running. 
 
 

@@ -21,7 +21,7 @@ You can also change the length of the rods for your needs, and how close you wan
 |  12  | Screw in the lens tube (SM1L10) to the side of the cage cube where the light would be redirected to (i.e.:the light reflects off the dichroic filter and goes downwards at a 90 degree angle).| ![Step 12](Instruction_Media/step_12.jpg)|
 |  13  | Remove the threading ring of a cage plate (CP33T/M) and put in the emission filter with the more reflective side facing the dichroic filter (i.e.: faces down, towards the incoming light). | ![Step 13](Instruction_Media/step_13.jpg)|
 |  14  | Screw in ER025 rods into the top of the cage cube with the dichroic and then secure this cage plate, with the filter facing downwards. | ![Step 14](Instruction_Media/step_14.jpg)|
-|  15  | Insert the two lenses for the tube lens into another SM1L1O. | ![Step 15](Instruction_Media/step_15.jpg)|
+|  15  | Insert the two lenses for the tube lens into another SM1L10. | ![Step 15](Instruction_Media/step_15.jpg)|
 |  16  | Screw this tube lens into one side of the cage cube mounted silver mirror (CCM1-P01/M). | ![Step 16](Instruction_Media/step_16.gif)|
 |  17  | Screw in a C-mount coupler (SM1A9) and SM1 coupler (SM1T1O) to the Basler camera. | ![Step 17](Instruction_Media/step_17.jpg)|
 |  18  | Screw in a lens tube (SM1L05) to the coupler. | ![Step 18](Instruction_Media/step_18.jpg)|

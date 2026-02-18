@@ -5,8 +5,6 @@ Zapit is a random-access spatio-temporally precise scanning system for optogenet
 
 See the [Parts List](Parts_List.md) for a list of parts required for constructing Zapit.
 
-
-
 The CAD models show you each part needed (where available) to construct the system and a rendering of how these pieces should be put together. 
 
 The orientation of the parts are not set in stone, and therefore do not have to be set exactly as they are in these models. However,  the 'order' of pieces is very important, and it helps to think about this best in terms of the direction of the light path from the laser (see Fig. 1a in the paper to help with visualisation). Additionally, the distance between parts is dependent on the objective and tube lenses you use for the distance needed from your sample. Please get in touch if you have trouble finding the right combination for your experiments. 
@@ -17,4 +15,4 @@ We also have adaptor parts for each laser in the 'Thorlabs-parts' folder to conn
 
 We are keen to help others build the system, so if you feel you lack information please make contact via GitHub and we will get you up and running. 
 
-If you need additionaly sound-proofing, you can build the custom enclosure, which is found [here](https://github.com/Zapit-Optostim/zapit_CAD)
+If you need additional sound-proofing, you can build the custom enclosure, which is found [here](https://github.com/Zapit-Optostim/zapit_CAD)

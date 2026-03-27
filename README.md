@@ -1,7 +1,6 @@
 # zapit-CAD
 
-Zapit is a random-access spatio-temporally precise scanning system for optogenetics experiments. The following consists of resources on the parts used, CAD models for their construction and instructions for assembly. See here for the paper (), and here for the [main page](https://github.com/Zapit-Optostim)
-
+Zapit is a random-access spatio-temporally precise scanning system for optogenetics experiments. This repo consists of resources on the parts used, CAD models for their construction and instructions for assembly. 
 
 See the [Parts List](Parts_List.md) for a list of parts required for constructing Zapit.
 
